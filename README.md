@@ -1,4 +1,4 @@
-# Code-for-FedSenseFormer-UQ-conformal-uncertainty-quantification-
+# Code-for-FedSenseFormer-UQ-conformal-uncertainty-quantification
 
 # FedSenseFormer-UQ
 
