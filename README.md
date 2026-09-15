@@ -9,8 +9,7 @@ Analysis code for the manuscript:
 R. Augustian Isaac (corresponding author), A. Jaffar Sadiq Ali, S. Mercy Gnana Gandhi
 
 *Submitted to BMC Medical Informatics and Decision Making.*
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/FedSenseFormer_UQ_Q1_Healthcare_Colab_MULTIHORIZON.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IsaacJournals/Code-for-FedSenseFormer-UQ-conformal-uncertainty-quantification-/blob/main/FedSenseFormer_UQ_Q1_Healthcare_Colab_MULTIHORIZON.ipynb)
 
 ---
 
